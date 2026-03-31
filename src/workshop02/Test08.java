@@ -19,5 +19,7 @@ public class Test08 {
 		result = num1+num2;
 		
 		System.out.printf("정수 %d 과 정수 %d 의 합계 : %d", num1, num2, result);
+		
+		sc.close();
 	}
 }

@@ -1,4 +1,4 @@
-package workshop;
+package workshop01;
 
 public class MyTest03 {
 

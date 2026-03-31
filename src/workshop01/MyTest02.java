@@ -1,4 +1,4 @@
-package workshop;
+package workshop01;
 
 import java.math.BigInteger;
 import java.util.Scanner;
@@ -12,6 +12,7 @@ public class MyTest02 {
 		
 		System.out.println("나의 주민번호 : " + IDNum);
 
+		sc.close();
 	}
 
 }

@@ -18,6 +18,8 @@ public class Test07 {
 		
 		System.out.println("이름은 "+ name + "\n" + "나이는 " + 
 		age + " 입니다");
+		
+		sc.close();
 	}
 
 }

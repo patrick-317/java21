@@ -18,6 +18,8 @@ public class Test10 {
 		System.out.println("도명: "+add[0]);
 		System.out.println("시명: "+add[1]);
 		System.out.println("구명: "+add[2]);
+		
+		sc.close();
 	}
 
 }

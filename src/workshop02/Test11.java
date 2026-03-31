@@ -24,6 +24,8 @@ public class Test11 {
 		result = (num1>num2) ? (num1>num3 ? num1 : num3) : (num2>num3 ? num2 : num3);
 		
 		System.out.printf("정수 %d 과 정수 %d , 정수 %d 중에서 최대값: %d", num1, num2, num3, result);
+		
+		sc.close();
 	}
 
 }
